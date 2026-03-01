@@ -5,7 +5,8 @@
       "Bash(docker exec:*)",
       "Bash(go build:*)",
       "Bash(docker rm:*)",
-      "Bash(docker run:*)"
+      "Bash(docker run:*)",
+      "WebSearch"
     ]
   }
 }
